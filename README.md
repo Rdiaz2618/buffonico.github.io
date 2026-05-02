@@ -17,3 +17,6 @@ Se agregan proyectos realizados
 ![alt text](image.png)
 ![alt text](image-1.png)
 
+# Contribucion
+Revision colaborativa realizada desde fork para apoyar la entrega final del modulo.
+
